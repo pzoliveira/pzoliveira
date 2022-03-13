@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pzoliveira
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning springboot
+- 👀 I’m interested in coding and learning new stuff
+- 🌱 I’m currently learning Python and AWS for Data Science
 - 💞️ I’m looking to collaborate on developing cool projects
 - 📫 How to reach me: pzoliveira@outlook.com
 
