@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pzoliveira
-- 👀 I’m interested in ML, DL, LLM, and GenAI
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on developing cool projects
+- 👀 I’m interested in LLM, RAG, and GenAI
+- 🌱 I’m always learning more about AI
+- 💞️ I’m looking to collaborate and develop cool projects
 - 📫 How to reach me: pzoliveira@outlook.com
 
 <!---
